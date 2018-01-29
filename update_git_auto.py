@@ -1,6 +1,6 @@
 import paramiko
 import os
-import argparse
+import argparse 
 
 def parse_args():
     parser = argparse.ArgumentParser(description='update 42,43,44,62 service,the same as lcoal /home/ppz/ai_new')
